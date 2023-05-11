@@ -29,7 +29,7 @@ public class HealthBar : MonoBehaviour
         }
         else
         {
-            Health.totalHealth = 0f;
+            Health.totalHealth = 1f;
             SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
         }
 

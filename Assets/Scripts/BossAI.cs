@@ -52,6 +52,7 @@ public class BossAI : MonoBehaviour
         else
         {
             StopCoroutine("BossShoot");
+            shooting = false;
             _targetDirection = _playerAwarenessController.DirectionToPlayer;
         }
     }

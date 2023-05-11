@@ -17,7 +17,7 @@ public class KillCount : MonoBehaviour
     public void incrementkills ()
     {
         NumberKills=NumberKills+1;
-        GetComponent<TMP_Text>().text=("score; "+ NumberKills);
+        GetComponent<TMP_Text>().text=("score: "+ NumberKills);
         //add canvas functionalit
     }
 }

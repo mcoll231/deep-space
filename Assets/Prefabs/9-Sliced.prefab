@@ -102,7 +102,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b6c6d2bb497acc049b61bff55bdb2abf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _speed: 50
+  _speed: 35
   _rotationSpeed: 200
 --- !u!114 &1936329208968183839
 MonoBehaviour:
@@ -150,6 +150,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 697580fdab81c074cb200dd4ec466943, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionParticle: {fileID: 0}
   health: 1
   maxHeath: 3
 --- !u!61 &2954282990805230602
@@ -190,5 +191,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 697580fdab81c074cb200dd4ec466943, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionParticle: {fileID: 1989049075097397970, guid: 159e4f4d8c7113145b5de60bef46c663, type: 3}
   health: 0
   maxHeath: 3

@@ -175,5 +175,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 697580fdab81c074cb200dd4ec466943, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  explosionParticle: {fileID: 1989049075097397970, guid: 159e4f4d8c7113145b5de60bef46c663, type: 3}
   health: 0
   maxHeath: 3

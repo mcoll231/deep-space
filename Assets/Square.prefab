@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 10
   m_Sprite: {fileID: 7482667652216324306, guid: 51282e4f35be87241a43e3d5dda5d025, type: 3}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.9150943, g: 0.2671635, b: 0.10935081, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -122,3 +122,4 @@ MonoBehaviour:
   moveSpeed: 5
   rb: {fileID: 6944397758801718347}
   cam: {fileID: 0}
+  healthBar: {fileID: 0}
